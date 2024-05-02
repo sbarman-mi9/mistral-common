@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mistral_common"
-version = "v1.0.2"
+version = "v1.0.2-pre"
 description = ""
 authors = ["bam4d <bam4d@mistral.ai>"]
 readme = "README.md"
@@ -43,6 +43,7 @@ mypy = "^1.8.0"
 pytest-cov = "^4.1.0"
 diff-cover = "^8.0.3"
 coverage = {extras = ["toml"], version = "^7.4.4"}
+ipykernel = "^6.29.4"
 
 [build-system]
 requires = ["poetry-core"]
