@@ -16,6 +16,12 @@ We are releasing three versions of our tokenizer powering different sets of mode
 ### pip 
 You can install `mistral-common` via pip: 
 ```
+(1.0.2-rc1)
+pip install https://github.com/sbarman-mi9/mistral-common/raw/main/dist/mistral_common-1.0.2rc1-py3-none-any.whl
+
+OR 
+
+(1.0.2)
 pip install mistral-common
 ```
 
